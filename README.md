@@ -349,3 +349,4 @@
     </script>
 </body>
 </html>
+185.199.108.153 yfgame.github.io,sudo killall -HUP mDNSResponder
